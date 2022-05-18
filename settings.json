@@ -1,0 +1,43 @@
+{
+    "General Settings": {
+        "Use Proxies": false,
+        "Scrape Proxies": true,
+        "Use Random API": true,
+        "Tasks": 14,
+        "Delay": 0.02,
+        "Show Logs": false
+    },
+    "Nuke Settings": {
+        "Token": "OTc2NTM0MDQ4NzQ5MDE1MTAw.Gqhsem.QCpxDL3DSJqJAwzA7_RMv7uG_8qasRAcdNmuis",
+        "Prefix": ".",
+        "Server Name": "final was here",
+        "Channel Names": [
+            "لا تلعب مع الكبار",
+            "العب مع من في عمرك",
+            "اللعب مع فاينل خطر"
+        ],
+        "Role Names": [
+            "final was here",
+            "final on top",
+            "ha ha ha"
+        ],
+        "Spam Contents": [
+            "@everyone فاني الاقوى discord.gg/f-s",
+            "@everyone لا تلعبو معنا",
+            "@everyone هكذا التهكير"
+        ],
+        "Webhook Usernames": [
+            "مبروك الخسارة",
+            "سلام يحماة",
+            "احمو نفسكو من الاول"
+        ],
+        "Whitelisted": [
+            914454430202626069
+        ],
+        "Authorized": [
+            914454430202626069
+        ],
+        "Webhook Spam": true,
+        "Bot": true
+    }
+}
